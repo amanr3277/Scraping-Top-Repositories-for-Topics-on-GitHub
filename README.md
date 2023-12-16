@@ -25,8 +25,8 @@ Extract the repo name, username, stars, and repo URL.
 Create a CSV file for each topic:
 Organize the extracted data and create a CSV file for each topic with the specified format.
 ### Sample CSV entry:
-Repo Name,Username,Stars,Repo URL
-three.js,mrdoob,69700,https://github.com/mrdoob/three.js
+Repo Name,Username,Stars,Repo URL//
+three.js,mrdoob,69700,https://github.com/mrdoob/three.js//
 libgdx,libgdx,18300,https://github.com/libgdx/libgdx
 ### Include a description for each repository:
 Add a column for the repository description in the CSV file, and extract this information during the scraping process.
